@@ -9,7 +9,7 @@ console.log(name);
 // Stampa tutti i valori nella console.
 const number= '13';
 const text= 'Ciao';
-const bool= '0';
+const bool= false;
 console.log(number);
 console.log(text);
 console.log(bool);
